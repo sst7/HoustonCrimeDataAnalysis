@@ -1,2 +1,2 @@
-# SmoothCriminals
+# Houston Crime Data Analysis
 Rice Data Science Club launched the semester-long Data Exploration and Education Project (DEEP) to help underclassmen become more familiar with data science principles and software. As part of DEEP, our team explored trends in crime using a Houston crime dataset obtained from the Kinder Institute Urban Data Platform. Throughout the semester, I conducted Exploratory Data Analysis, created a choropleth map to visualize crime by zipcode, and predicted crime based on repeat offenses and police division (these can be found in the Vinay_Crime_EDA file). We used Python for all of our data analysis. 
